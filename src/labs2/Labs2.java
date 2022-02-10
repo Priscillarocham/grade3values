@@ -12,7 +12,7 @@ public class Labs2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //test git
+        //test git2
 
         Scanner sc = new Scanner(System.in);
 
